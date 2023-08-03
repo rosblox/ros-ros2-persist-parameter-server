@@ -1,0 +1,1 @@
+docker build --progress=plain -t ghcr.io/rosblox/ros-ros2-persist-parameter-server:humble .
